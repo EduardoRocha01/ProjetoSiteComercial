@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="34.179"
+   height="34.182"
+   viewBox="0 0 34.179 34.182"
+   version="1.1"
+   id="svg3"
+   sodipodi:docname="casinha-preta.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs7" />
+  <sodipodi:namedview
+     id="namedview5"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="24.340297"
+     inkscape:cx="17.091"
+     inkscape:cy="17.070458"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="2552"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg3" />
+  <path
+     id="home"
+     d="M33.761,14.867l0,0L19.815.921a3.146,3.146,0,0,0-4.45,0L1.428,14.857l-.014.014a3.145,3.145,0,0,0,2.094,5.361c.032,0,.065,0,.1,0H4.16V30.5a3.687,3.687,0,0,0,3.683,3.683H13.3a1,1,0,0,0,1-1V25.135a1.682,1.682,0,0,1,1.681-1.68H19.2a1.682,1.682,0,0,1,1.68,1.68V33.18a1,1,0,0,0,1,1h5.455A3.687,3.687,0,0,0,31.018,30.5V20.238h.515a3.147,3.147,0,0,0,2.227-5.371ZM32.343,17.9a1.137,1.137,0,0,1-.809.335H30.017a1,1,0,0,0-1,1V30.5a1.682,1.682,0,0,1-1.68,1.68H22.881V25.135A3.687,3.687,0,0,0,19.2,21.452H15.981A3.688,3.688,0,0,0,12.3,25.135v7.043H7.843a1.682,1.682,0,0,1-1.68-1.68V19.236a1,1,0,0,0-1-1H3.671l-.047,0a1.143,1.143,0,0,1-.788-1.951h0L16.781,2.337a1.143,1.143,0,0,1,1.617,0l13.94,13.94.007.006a1.146,1.146,0,0,1,0,1.616Zm0,0"
+     transform="translate(-0.5 0.001)"
+     fill="#850AD6"
+     style="fill:#000000;fill-opacity:1" />
+</svg>

@@ -160,7 +160,7 @@ main{
   }
   
   
-  
+  /*imagem dos produtos*/
   .products-list {
     display: flex;
     justify-content:space-around;
@@ -196,6 +196,14 @@ main{
         width: 100%;
         height: auto;
         margin: 5%;
+        border-radius:35px;
+        
+    }
+    .fundo-scroll{
+      height: 30%;
+      width: 100%;
+      border-radius: 25px;
+      padding: 1%;
     }
 
     .banner-grande{
@@ -203,7 +211,7 @@ main{
         margin: auto;
         margin-left: 0%;
         height: auto;
-        background-color: rebeccapurple;
+
     }
 
     .banner-grande img{
@@ -218,7 +226,7 @@ main{
         width: 35%;
         min-height: 200%;
         margin-top: 10%;
-        background-color: red;
+        background-color: rgb(253, 253, 253);
 
     }
 

@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Urbanist:wght@100&display=swap');
+
 header {
     display: flex;
     justify-content: space-between;
@@ -37,8 +39,8 @@ body{
 
 main{
     width: auto;
-    height: auto;
-    background-color: rgb(248, 242, 242);
+    height: 100%;
+    background-color:#FFFFFF;
 }
 
 .display-moderno{
@@ -56,10 +58,11 @@ main{
     margin: auto;
     margin-left: 17%;
     height:400px;
-    width: 80%;
-    margin-top: 10%;
+    width: 100%;
+    margin-top: 0%;
     padding: 2%;
     border-radius: 20px;
+    object-fit: cover;
 }
 
 .banner-grande img{
@@ -100,6 +103,8 @@ main{
     background-color: rgb(249, 250, 250);
     width: 19%;
     border-radius: 5px 5px 5px 5px;
+    font-family: 'Urbanist', sans-serif;
+    font-weight: bolder;
 }
 
 .tamanho-de-imagens{
@@ -134,6 +139,7 @@ main{
     display:inline-block;
     color: rgb(100, 23, 23);
     line-height: 79%;
+    font-family: 'Urbanist', sans-serif;
 }
 
 .categorias-fotos div  img{
@@ -145,12 +151,15 @@ main{
 
 .item-container {
     display: flex;
+    font-family: 'Urbanist', sans-serif;
+    font-weight: bold;
   }
   
   .item {
     width: 30%;
     margin: 10px;
     text-align: center;
+    font-family: 'Urbanist', sans-serif;
   }
   
   .item img {
@@ -167,11 +176,14 @@ main{
     flex-wrap: wrap;
     flex-direction: row;
   }
+
+
   
   .product {
-    width: 30%;
+    width: 33%;
     text-align: center;
-
+    font-family: 'Urbanist', sans-serif;
+    margin-top: 10%;
   }
   
   .product img {
@@ -179,6 +191,11 @@ main{
     height: 89%;
     border-radius: 20px;
     
+  }
+
+  .product button{
+    background-color:#CE0B81;
+    border-radius: 1px 0px 25px 1px;
   }
   
 
